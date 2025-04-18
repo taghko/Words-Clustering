@@ -1,8 +1,6 @@
 # Words-Clustering
 DataCamp Project: Reveal Categories found in data
 
-![wordcloud](wordcloud.png)
-
 As a Data Scientist working for a mobile app company, you usually find yourself applying product analytics to better understand user behavior, uncover patterns, and reveal insights to identify the great and not-so-great features. Recently, the number of negative reviews has increased on Google Play, and as a consequence, the app's rating has been decreasing. 
 
 Objective
